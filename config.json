@@ -1,0 +1,24 @@
+{
+  "bus_stops": [
+    "01012",
+    "18331",
+    "18339",
+    "18309",
+    "18051",
+    "18141"
+  ],
+  "train_lines": [
+    "EWL",
+    "NSL",
+    "NEL",
+    "CCL",
+    "DTL",
+    "TEL"
+  ],
+  "arrival_interval_seconds": 60,
+  "crowd_interval_seconds": 600,
+  "export_interval_seconds": 300,
+  "od_bus_scope": "all",
+  "archive_monthly": true,
+  "minimum_observation_dates": 5
+}
